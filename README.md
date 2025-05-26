@@ -37,7 +37,7 @@ A simple React Native application that allows users to scan barcodes or QR codes
 ```bash
 git clone https://github.com/your-username/react-native-barcode-scanner.git
 cd react-native-barcode-scanner
-
+```
 ### 2. Install Dependencies
    ```bash
    npm install
@@ -46,7 +46,7 @@ cd react-native-barcode-scanner
    
    ```
 ### 3. For Android:
-   Start Metro (in one terminal):```npx react-native start```
+   Start Metro (in one terminal):```bash npx react-native start```
    Build and run on Android (in another terminal):```npx react-native run-android```
 
    
