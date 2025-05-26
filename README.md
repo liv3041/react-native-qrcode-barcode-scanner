@@ -46,7 +46,7 @@ cd react-native-barcode-scanner
    
    ```
 ### 3. For Android:
-   Start Metro (in one terminal):```bash npx react-native start```
+   Start Metro (in one terminal):``` npx react-native start```
    Build and run on Android (in another terminal):```npx react-native run-android```
 
    
