@@ -6,6 +6,9 @@ buildscript {
         targetSdkVersion = 35
         ndkVersion = "27.1.12297006"
         kotlinVersion = "2.0.21"
+        // kotlinVersion = "1.8.20"
+        visionCameraVersion = "2.15.0" // or latest version
+
     }
     repositories {
         google()
@@ -16,6 +19,19 @@ buildscript {
         classpath("com.facebook.react:react-native-gradle-plugin")
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin")
     }
+
+
+
 }
+// allprojects {
+//     repositories {
+//         google()   // important to have this
+//         mavenCentral()
+//         // maven { url 'https://maven.pkg.github.com/mrousavy/react-native-vision-camera' }
+//         // maven { url 'https://jitpack.io' }
+//         // ...
+//     }
+// }
+
 
 apply plugin: "com.facebook.react.rootproject"
