@@ -30,6 +30,10 @@ A simple React Native application that allows users to scan barcodes or QR codes
 - **Detail Screen**: Displays details for the scanned ID.
 
 ---
+## Demo
+
+https://github.com/user-attachments/assets/75f2ac33-b7d6-4eea-8750-d09814bed2f7
+
 
 ## 🧪 Setup & Installation
 ### 1. Clone the repository
