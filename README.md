@@ -50,27 +50,35 @@ A simple React Native application that allows users to scan barcodes or QR codes
     npx react-native run-android
     
     ```
-4. For iOS (macOS only)
+3. For iOS (macOS only)
    Install CocoaPods (if not already installed):
-    ```
+
+   ```
+
    sudo gem install cocoapods
 
    ```
    Install iOS dependencies:
+   
    ```
+
    cd ios && pod install && cd ..
 
    ```
   Start Metro:
-    ```
-    npx react-native start
-    
-    ```
-  Build and run on iOS simulator:
-  ```
-  npx react-native run-ios
+   
+   ```
 
-```
+     npx react-native start
+    
+  ```
+  Build and run on iOS simulator:
+  
+  ```
+
+    npx react-native run-ios
+
+  ```
 📌 Make sure you have Xcode installed and an iOS simulator running.
 
 
