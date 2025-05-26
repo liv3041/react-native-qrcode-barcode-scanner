@@ -1,4 +1,4 @@
-# 📷 React Native Barcode Scanner App
+# 📷 React Native Barcode/QRCode Scanner App
 
 A simple React Native application that allows users to scan barcodes or QR codes using their device camera. The app saves the scan history and navigates to a detail screen with the scanned information.
 
